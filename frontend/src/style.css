@@ -1,0 +1,32 @@
+.text-button {
+  border: none;
+  background-color: inherit;
+  padding: 18px 14px;
+  font-size: 20px;
+  cursor: pointer;
+  display: inline-block;
+  color: rgb(16, 133, 250);
+}
+
+/* On mouse-over */
+.text-button:hover {color: #066cf0;}
+
+.submit-button {
+  background-color:  rgb(131, 196, 240);
+  color: rgb(19, 1, 1);
+  height: 46px;
+  width: 90px;
+} 
+
+.task-input {
+  margin: 0 30px;
+  height: 40px;
+  width: 250px;
+}
+
+h1 {
+  margin: 30px;
+}
+.zhengti{
+  background-color:#F5ECCE;
+}
